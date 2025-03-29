@@ -1,0 +1,29 @@
+# Z-Machine specific
+*.z5
+*.z3
+*.z8
+*.dat
+*.sav
+
+# Extracted source and build files
+listsdir/
+*.tar.Z
+analysis/
+analysis.txt
+
+# Backup files
+*~
+*.bak
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+temp/
